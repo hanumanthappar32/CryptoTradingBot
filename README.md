@@ -11,7 +11,7 @@ A web-based cryptocurrency trading application with automated trading strategies
 - Performance tracking and analytics
 - Secure API key management
 
-## Installation
+## Installations
 
 1. Create a virtual environment:
 ```bash
